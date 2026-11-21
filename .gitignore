@@ -1,0 +1,5 @@
+*.tif
+*.laz
+*.las
+*.zip
+*/data/raw/
