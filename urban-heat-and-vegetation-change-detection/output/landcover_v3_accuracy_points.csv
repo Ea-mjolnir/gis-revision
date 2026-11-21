@@ -1,0 +1,251 @@
+point,map,reference,x,y
+1,low vegetation,low vegetation,399890.0,5814290.0
+2,trees,trees,413110.0,5811470.0
+3,low vegetation,low vegetation,388590.0,5817110.0
+4,water,water,407630.0,5799790.0
+5,bare soil,bare soil,377310.0,5821590.0
+6,low vegetation,built-up,388350.0,5828070.0
+7,bare soil,built-up,379530.0,5819650.0
+8,low vegetation,built-up,389170.0,5816450.0
+9,water,unclear,407430.0,5800290.0
+10,water,water,407890.0,5810170.0
+11,bare soil,built-up,383910.0,5823890.0
+12,low vegetation,built-up,393570.0,5820050.0
+13,trees,trees,381150.0,5817950.0
+14,water,water,408350.0,5803950.0
+15,built-up,built-up,399810.0,5816070.0
+16,low vegetation,trees,384230.0,5808370.0
+17,built-up,built-up,397090.0,5821550.0
+18,water,water,374970.0,5811450.0
+19,built-up,built-up,398890.0,5811690.0
+20,water,water,377010.0,5814810.0
+21,trees,trees,397750.0,5825990.0
+22,bare soil,built-up,384330.0,5812450.0
+23,built-up,built-up,395390.0,5809970.0
+24,low vegetation,low vegetation,401970.0,5826030.0
+25,low vegetation,low vegetation,403550.0,5822350.0
+26,water,water,371690.0,5813930.0
+27,trees,trees,409330.0,5809350.0
+28,bare soil,bare soil,401150.0,5806830.0
+29,trees,trees,384210.0,5834350.0
+30,low vegetation,trees,401290.0,5816350.0
+31,trees,trees,406450.0,5813110.0
+32,built-up,built-up,380710.0,5812850.0
+33,bare soil,low vegetation,407630.0,5819550.0
+34,trees,trees,376870.0,5809290.0
+35,built-up,built-up,399930.0,5808690.0
+36,built-up,trees,381050.0,5815710.0
+37,trees,trees,412330.0,5813150.0
+38,built-up,built-up,381250.0,5823190.0
+39,trees,trees,382010.0,5815530.0
+40,bare soil,bare soil,398970.0,5821210.0
+41,bare soil,unclear,375890.0,5825570.0
+42,water,water,407890.0,5810690.0
+43,bare soil,built-up,385390.0,5819170.0
+44,built-up,built-up,379470.0,5830990.0
+45,trees,trees,383670.0,5829470.0
+46,low vegetation,low vegetation,395830.0,5821250.0
+47,built-up,built-up,389890.0,5822990.0
+48,trees,trees,374330.0,5810370.0
+49,trees,trees,379450.0,5813930.0
+50,built-up,built-up,402070.0,5814790.0
+51,trees,trees,387930.0,5819930.0
+52,bare soil,built-up,391370.0,5806110.0
+53,built-up,built-up,403810.0,5822750.0
+54,water,water,393810.0,5827570.0
+55,bare soil,bare soil,389270.0,5821210.0
+56,trees,trees,406150.0,5805210.0
+57,built-up,built-up,378510.0,5823110.0
+58,water,water,376710.0,5813630.0
+59,trees,built-up,383870.0,5832350.0
+60,water,water,376990.0,5813850.0
+61,low vegetation,low vegetation,391890.0,5824250.0
+62,built-up,built-up,392410.0,5813870.0
+63,built-up,built-up,375350.0,5821870.0
+64,bare soil,bare soil,379870.0,5822270.0
+65,trees,trees,409230.0,5805570.0
+66,low vegetation,trees,402070.0,5825830.0
+67,water,water,376030.0,5810210.0
+68,trees,trees,390830.0,5826210.0
+69,built-up,built-up,383330.0,5817850.0
+70,low vegetation,unclear,374430.0,5816610.0
+71,low vegetation,low vegetation,389210.0,5830850.0
+72,trees,trees,405970.0,5806650.0
+73,built-up,built-up,399170.0,5809750.0
+74,trees,trees,409310.0,5814130.0
+75,built-up,built-up,385950.0,5814730.0
+76,bare soil,low vegetation,384390.0,5824870.0
+77,water,water,384150.0,5825750.0
+78,built-up,built-up,397370.0,5817950.0
+79,water,trees,376270.0,5828630.0
+80,low vegetation,built-up,402570.0,5816010.0
+81,low vegetation,trees,401030.0,5820950.0
+82,built-up,built-up,404350.0,5808450.0
+83,bare soil,bare soil,398750.0,5811350.0
+84,trees,trees,410350.0,5812730.0
+85,trees,low vegetation,375530.0,5823670.0
+86,built-up,built-up,390050.0,5812730.0
+87,built-up,built-up,387130.0,5808970.0
+88,water,trees,379730.0,5812450.0
+89,low vegetation,low vegetation,392450.0,5831730.0
+90,trees,trees,405430.0,5809330.0
+91,bare soil,built-up,394010.0,5825970.0
+92,bare soil,built-up,384230.0,5820350.0
+93,built-up,built-up,399490.0,5822930.0
+94,built-up,built-up,394790.0,5819170.0
+95,water,water,375250.0,5813530.0
+96,bare soil,bare soil,400710.0,5821970.0
+97,bare soil,built-up,381730.0,5810650.0
+98,water,water,375210.0,5813530.0
+99,trees,trees,397530.0,5833750.0
+100,bare soil,low vegetation,394270.0,5814970.0
+101,bare soil,bare soil,398650.0,5828190.0
+102,low vegetation,low vegetation,392830.0,5828230.0
+103,built-up,trees,388810.0,5812670.0
+104,low vegetation,trees,413590.0,5806310.0
+105,trees,trees,392170.0,5832350.0
+106,water,water,374910.0,5811730.0
+107,water,water,375070.0,5812510.0
+108,trees,trees,379290.0,5820470.0
+109,built-up,built-up,385170.0,5818990.0
+110,built-up,built-up,406070.0,5819570.0
+111,trees,trees,392870.0,5810250.0
+112,low vegetation,low vegetation,391170.0,5830750.0
+113,water,water,410150.0,5804910.0
+114,water,water,396050.0,5834210.0
+115,bare soil,built-up,394990.0,5823890.0
+116,trees,trees,404890.0,5804850.0
+117,low vegetation,low vegetation,400510.0,5826630.0
+118,trees,trees,393050.0,5813490.0
+119,low vegetation,low vegetation,392410.0,5833430.0
+120,water,water,375410.0,5809770.0
+121,low vegetation,built-up,389050.0,5830550.0
+122,bare soil,bare soil,388490.0,5828810.0
+123,low vegetation,trees,396590.0,5828270.0
+124,trees,built-up,380610.0,5810610.0
+125,trees,built-up,383670.0,5813210.0
+126,water,water,378710.0,5822850.0
+127,bare soil,low vegetation,401190.0,5806890.0
+128,trees,trees,408130.0,5808350.0
+129,bare soil,bare soil,376090.0,5811170.0
+130,water,trees,412690.0,5809070.0
+131,trees,trees,413050.0,5810670.0
+132,water,water,395370.0,5817410.0
+133,trees,trees,397430.0,5815470.0
+134,water,water,379290.0,5824170.0
+135,trees,built-up,380270.0,5819130.0
+136,trees,trees,405550.0,5811350.0
+137,water,water,379330.0,5829790.0
+138,built-up,built-up,383290.0,5829430.0
+139,water,water,382590.0,5828150.0
+140,water,water,375510.0,5811590.0
+141,low vegetation,trees,372870.0,5822390.0
+142,bare soil,built-up,389710.0,5811370.0
+143,bare soil,bare soil,389010.0,5811430.0
+144,low vegetation,trees,380330.0,5820710.0
+145,built-up,trees,388050.0,5826590.0
+146,bare soil,built-up,395130.0,5816210.0
+147,bare soil,low vegetation,396690.0,5821970.0
+148,bare soil,built-up,390090.0,5808150.0
+149,water,water,375110.0,5811570.0
+150,trees,trees,377050.0,5811650.0
+151,low vegetation,built-up,394870.0,5809270.0
+152,built-up,built-up,395550.0,5817210.0
+153,trees,trees,411950.0,5811490.0
+154,bare soil,low vegetation,384410.0,5824890.0
+155,built-up,low vegetation,390030.0,5829350.0
+156,water,water,376930.0,5818170.0
+157,low vegetation,low vegetation,391850.0,5830430.0
+158,built-up,built-up,386850.0,5811250.0
+159,built-up,built-up,399410.0,5816210.0
+160,water,water,409190.0,5810650.0
+161,trees,trees,397170.0,5813070.0
+162,built-up,built-up,403930.0,5810330.0
+163,bare soil,built-up,378950.0,5825250.0
+164,trees,trees,386830.0,5824170.0
+165,trees,trees,396250.0,5836050.0
+166,built-up,built-up,386590.0,5828710.0
+167,built-up,built-up,387990.0,5812250.0
+168,built-up,built-up,400670.0,5816030.0
+169,bare soil,bare soil,380830.0,5823670.0
+170,water,water,385010.0,5809870.0
+171,low vegetation,trees,374350.0,5823450.0
+172,water,water,407550.0,5809910.0
+173,bare soil,built-up,390590.0,5806430.0
+174,low vegetation,low vegetation,389970.0,5829090.0
+175,bare soil,bare soil,399890.0,5810890.0
+176,trees,trees,408590.0,5808630.0
+177,water,water,402910.0,5809610.0
+178,built-up,built-up,394390.0,5814070.0
+179,built-up,built-up,405650.0,5820890.0
+180,bare soil,built-up,399410.0,5813190.0
+181,bare soil,built-up,392810.0,5820530.0
+182,low vegetation,low vegetation,378890.0,5818030.0
+183,trees,low vegetation,387910.0,5819250.0
+184,water,water,407830.0,5810130.0
+185,low vegetation,trees,375830.0,5823330.0
+186,bare soil,built-up,390450.0,5821670.0
+187,built-up,built-up,387990.0,5816450.0
+188,water,water,376550.0,5813190.0
+189,water,water,374670.0,5812310.0
+190,bare soil,built-up,402990.0,5809730.0
+191,trees,trees,381550.0,5824230.0
+192,low vegetation,built-up,403010.0,5817750.0
+193,built-up,built-up,404290.0,5813790.0
+194,low vegetation,built-up,384050.0,5810910.0
+195,bare soil,low vegetation,389570.0,5819950.0
+196,bare soil,low vegetation,385950.0,5815290.0
+197,water,water,407530.0,5800810.0
+198,low vegetation,low vegetation,375770.0,5825210.0
+199,low vegetation,low vegetation,389250.0,5806230.0
+200,built-up,built-up,396950.0,5824570.0
+201,low vegetation,trees,396730.0,5826670.0
+202,water,water,379350.0,5828430.0
+203,bare soil,bare soil,397130.0,5827270.0
+204,trees,trees,412370.0,5811470.0
+205,water,water,410970.0,5805730.0
+206,built-up,low vegetation,389750.0,5812250.0
+207,bare soil,built-up,375130.0,5819890.0
+208,trees,trees,381650.0,5831390.0
+209,water,water,407470.0,5806270.0
+210,bare soil,built-up,395710.0,5815630.0
+211,bare soil,bare soil,400050.0,5811010.0
+212,built-up,built-up,400690.0,5808750.0
+213,low vegetation,built-up,390410.0,5822090.0
+214,built-up,built-up,396290.0,5808930.0
+215,water,water,411270.0,5803510.0
+216,low vegetation,low vegetation,398610.0,5816170.0
+217,water,water,377050.0,5815170.0
+218,water,water,371930.0,5810670.0
+219,low vegetation,low vegetation,388450.0,5831510.0
+220,low vegetation,low vegetation,393430.0,5811990.0
+221,low vegetation,low vegetation,379310.0,5818950.0
+222,bare soil,built-up,380150.0,5821530.0
+223,built-up,built-up,380290.0,5821350.0
+224,bare soil,built-up,405990.0,5821970.0
+225,trees,low vegetation,395810.0,5831170.0
+226,bare soil,bare soil,400210.0,5822630.0
+227,low vegetation,low vegetation,391670.0,5810590.0
+228,water,water,409390.0,5811090.0
+229,water,water,376890.0,5816430.0
+230,low vegetation,low vegetation,396270.0,5832470.0
+231,water,water,381170.0,5826690.0
+232,water,water,386390.0,5822130.0
+233,trees,trees,372430.0,5809070.0
+234,low vegetation,built-up,391970.0,5811650.0
+235,bare soil,low vegetation,407730.0,5819590.0
+236,low vegetation,low vegetation,397910.0,5829150.0
+237,water,water,371710.0,5810610.0
+238,bare soil,built-up,385890.0,5821050.0
+239,trees,trees,381950.0,5825510.0
+240,low vegetation,trees,397590.0,5827790.0
+241,low vegetation,low vegetation,375990.0,5816290.0
+242,built-up,built-up,402650.0,5807950.0
+243,trees,trees,399050.0,5821030.0
+244,trees,trees,408150.0,5803110.0
+245,built-up,built-up,397890.0,5808390.0
+246,built-up,built-up,393210.0,5808450.0
+247,low vegetation,low vegetation,396350.0,5826090.0
+248,built-up,built-up,403670.0,5811930.0
+249,bare soil,low vegetation,385150.0,5807990.0
+250,low vegetation,low vegetation,377110.0,5822750.0

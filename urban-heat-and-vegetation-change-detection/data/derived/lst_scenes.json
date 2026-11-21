@@ -1,0 +1,62 @@
+{
+ "2018-07-23": {
+  "item": "LC08_L2SP_193023_20180723_02_T1",
+  "platform": "landsat-8",
+  "datetime": "2018-07-23T10:01:46.532995+00:00",
+  "cloud_cover": 11.54,
+  "scale": 0.00341802,
+  "offset": 149,
+  "kind": "primary",
+  "berlin_land_mean_c": 34.1,
+  "air_tempelhof": [
+   24.8,
+   59,
+   null
+  ]
+ },
+ "2025-07-02": {
+  "item": "LC09_L2SP_193023_20250702_02_T1",
+  "platform": "landsat-9",
+  "datetime": "2025-07-02T10:02:16.403124+00:00",
+  "cloud_cover": 0.0,
+  "scale": 0.00341802,
+  "offset": 149,
+  "kind": "primary",
+  "berlin_land_mean_c": 42.5,
+  "air_tempelhof": [
+   33.2,
+   null,
+   0
+  ]
+ },
+ "2018-08-17": {
+  "item": "LC08_L2SP_192023_20180817_02_T1",
+  "platform": "landsat-8",
+  "datetime": "2018-08-17T09:55:49.515617+00:00",
+  "cloud_cover": 5.62,
+  "scale": 0.00341802,
+  "offset": 149,
+  "kind": "check",
+  "berlin_land_mean_c": 35.34,
+  "air_tempelhof": [
+   27.5,
+   60,
+   null
+  ]
+ },
+ "2025-08-19": {
+  "item": "LC09_L2SP_193023_20250819_02_T1",
+  "platform": "landsat-9",
+  "datetime": "2025-08-19T10:02:39.532432+00:00",
+  "cloud_cover": 2.04,
+  "scale": 0.00341802,
+  "offset": 149,
+  "kind": "check",
+  "berlin_land_mean_c": 31.81,
+  "air_tempelhof": [
+   23.7,
+   null,
+   0
+  ]
+ }
+}

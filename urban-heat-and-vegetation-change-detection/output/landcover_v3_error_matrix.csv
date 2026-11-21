@@ -1,0 +1,6 @@
+,ref water,ref built-up,ref bare soil,ref trees,ref low vegetation,unclear (excluded)
+map water,46,0,0,3,0,1
+map built-up,0,45,0,3,2,0
+map bare soil,0,23,16,0,10,1
+map trees,0,4,0,43,3,0
+map low vegetation,0,10,0,12,27,1

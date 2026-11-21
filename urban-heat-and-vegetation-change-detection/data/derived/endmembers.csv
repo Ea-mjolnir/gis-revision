@@ -1,0 +1,7 @@
+endmember,B02,B03,B04,B05,B06,B07,B08,B8A,B11,B12,source
+vegetation,0.0358,0.0717,0.0330,0.1203,0.4291,0.5510,0.5895,0.5853,0.2393,0.1096,"N-FINDR, pooled Berlin pixels both dates"
+field_soil,0.1279,0.1678,0.2168,0.2424,0.2582,0.2718,0.2882,0.2922,0.3695,0.3293,"median bare-field pixels >1 km outside Berlin, both dates"
+built_bright_a,0.3151,0.3452,0.3826,0.4105,0.4246,0.4344,0.4503,0.4384,0.3673,0.2368,"N-FINDR, pooled Berlin pixels both dates"
+built_bright_b,0.3803,0.4166,0.4429,0.4534,0.4496,0.4465,0.4668,0.4451,0.4654,0.4316,"N-FINDR, pooled Berlin pixels both dates"
+dark_urban,0.0727,0.0902,0.1131,0.1336,0.1541,0.1705,0.1895,0.2040,0.3481,0.3136,N-FINDR vertex (urban dark/tile-like material)
+shade,0.0123,0.0150,0.0081,0.0085,0.0082,0.0105,0.0127,0.0143,0.0143,0.0084,"N-FINDR, darkest land pixels"

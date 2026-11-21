@@ -1,0 +1,21 @@
+rank,seg_id,street,road_class,ortsteil,bezirk,length_m,n_bike,n_killed_serious,accidents_per_km,n_2018,n_2019,n_2020,n_2021,n_2022,n_2023,n_2024,n_2025
+1,135633,Invalidenstraße,3 tertiary/unclassified,Mitte,Mitte,76.3,38,6,498.0,10,3,3,10,3,5,3,1
+2,4915,Petersburger Straße,2 primary/secondary,Friedrichshain,Friedrichshain-Kreuzberg,54.1,25,4,462.1,4,1,3,4,0,2,7,4
+3,22043,Unter den Linden,2 primary/secondary,Mitte,Mitte,50.5,20,0,396.4,0,4,3,1,4,1,4,3
+4,99451,Mehringdamm,2 primary/secondary,Kreuzberg,Friedrichshain-Kreuzberg,67.4,25,2,371.1,6,5,4,5,1,2,1,1
+5,7146,Heinrich-Mann-Straße,2 primary/secondary,Niederschönhausen,Pankow,69.9,25,5,357.5,2,6,1,4,4,5,1,2
+6,84514,Alexanderstraße,2 primary/secondary,Mitte,Mitte,71.9,25,2,347.9,1,5,3,2,6,5,2,1
+7,5864,Warschauer Straße,2 primary/secondary,Friedrichshain,Friedrichshain-Kreuzberg,51.9,18,6,346.8,5,0,6,1,3,1,2,0
+8,181011,Oranienstraße,2 primary/secondary,Kreuzberg,Friedrichshain-Kreuzberg,62.0,21,1,338.5,6,1,3,7,0,2,2,0
+9,156252,Wisbyer Straße,2 primary/secondary,Prenzlauer Berg,Pankow,56.2,18,3,320.5,3,2,1,6,2,2,2,0
+10,182873,Niederkirchnerstraße,4 residential,Mitte,Mitte,52.9,14,0,264.4,3,1,3,2,3,2,0,0
+11,41092,Schönhauser Allee,2 primary/secondary,Prenzlauer Berg,Pankow,50.3,13,1,258.4,2,2,2,2,1,2,1,1
+12,17626,Bersarinplatz,2 primary/secondary,Friedrichshain,Friedrichshain-Kreuzberg,66.1,17,0,257.3,0,4,5,0,5,1,1,1
+13,269606,Kastanienallee,3 tertiary/unclassified,Mitte,Mitte,82.5,21,2,254.5,7,1,0,2,4,2,2,3
+14,15692,Weinbergsweg,4 residential,Mitte,Mitte,78.6,20,6,254.3,7,3,3,2,0,3,0,2
+15,141562,Am Wasserwerk,4 residential,Lichtenberg,Lichtenberg,80.3,20,3,249.2,3,0,5,1,3,2,4,2
+16,199218,(unnamed cycleway),6 cycleway,Prenzlauer Berg,Pankow,64.4,16,0,248.4,1,0,4,2,4,1,1,3
+17,15694,Weinbergsweg,4 residential,Mitte,Mitte,78.6,19,6,241.6,6,3,2,2,5,1,0,0
+18,166702,Otto-Braun-Straße,2 primary/secondary,Mitte,Mitte,75.3,18,0,239.1,2,1,4,4,4,2,0,1
+19,129937,Hermannstraße,2 primary/secondary,Neukölln,Neukölln,59.0,14,2,237.4,1,0,1,2,3,3,3,1
+20,70316,Otto-Braun-Straße,2 primary/secondary,Mitte,Mitte,80.2,19,1,237.0,1,5,2,2,0,2,4,3

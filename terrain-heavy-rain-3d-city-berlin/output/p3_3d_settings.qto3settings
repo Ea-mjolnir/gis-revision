@@ -1,0 +1,276 @@
+{
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "3D_buildings__risk_class__42c1c09a_adc8_46f2_9efb_042c50a8dd18",
+      "name": "3D buildings (risk class)",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Extruded",
+        "comboBox_altitudeMode": "DGM1_1_m__DHHN2016__addd1697_7868_4e6b_897e_9fb91c7ed667",
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "No edge",
+          "editText": "None",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"fid\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "\"h3d\"",
+          "type": 1
+        },
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 3,
+      "layerId": "Courtyard_ponding_flag__unverified__0d9b0ccb_214d_4e43_86a3_f313ac8ef5c3",
+      "name": "Courtyard ponding flag (unverified)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Buildings_at_risk__risk_class__7a40b4cf_99ee_490e_a203_f0901aedbf23",
+      "name": "Buildings at risk (risk class)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Sinks_enclosed_by_buildings__outline__2b993a18_2ced_483e_9e55_0de5f72722a1",
+      "name": "Courtyard sinks (enclosed, unverified)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Flow_paths_____2_000_m2_upstream__2396e7c2_b255_40a3_9bd5_ae5c7bf38b6a",
+      "name": "Flow paths (>= 2,000 m2 upstream)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Sinks_by_depth_used__m__93a1490b_a178_4ee5_bf7c_ebdae16f4848",
+      "name": "Sinks by depth used (m)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Building_height_QA__LoD2_minus_ALS__39af5ad3_1de3_4b45_9598_eaa549aab8bc",
+      "name": "Building height QA (LoD2 minus ALS)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "ALS_DTM_minus_DGM1__m__7b2f5d07_f611_4abb_b049_91b30b88a9da",
+      "name": "ALS DTM minus DGM1 (m)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "nDSM__ALS_DSM_minus_DGM1__m__1c57ae5b_28e7_4a6e_9b58_37525c1c69d3",
+      "name": "nDSM (ALS DSM minus DGM1, m)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Canopy_height_0_5_40_m_8b22b99b_dbed_4b05_8a5b_2a54021161f9",
+      "name": "Canopy height 0.5-40 m",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Point_density__points_per_m2__ef4c2698_5bdc_4307_a807_0c150447263e",
+      "name": "Point density (points per m2)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Profile_line__N_S__aede70d0_6972_4985_bf80_b6f018a7dc3e",
+      "name": "Profile line (N-S)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "LoD2_buildings__footprints__f7615d3f_3499_4482_b6a3_ed197c56f823",
+      "name": "LoD2 buildings (footprints)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Contours_1_m_5f6abb1d_d128_4169_ba54_0bd7dd7c828f",
+      "name": "Contours 1 m",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "DGM1_1_m__DHHN2016__addd1697_7868_4e6b_897e_9fb91c7ed667",
+      "name": "DGM1 1 m (DHHN2016)",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "comboBox_ClipLayer": "3D_buildings__risk_class__42c1c09a_adc8_46f2_9efb_042c50a8dd18",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "c015c122",
+            "name": "map (canvas)",
+            "properties": {
+              "checkBox_FlatShading": false,
+              "checkBox_Shading": true,
+              "checkBox_TransparentBackground": false,
+              "colorButton_Color": [
+                0,
+                0,
+                0,
+                255
+              ],
+              "comboBox_TextureSize": "1024",
+              "layerIds": [],
+              "lineEdit_ImageFile": "",
+              "radioButton_WebP": true,
+              "spinBox_Opacity": 100
+            },
+            "type": 0
+          }
+        ],
+        "mtlId": "c015c122",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3,
+        "spinBox_TileSideSegments": 512
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "Slope__degrees__5b582a2a_1015_4160_ab5f_2243428e1f19",
+      "name": "Slope (degrees)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Aspect_05cacf89_0c86_4898_a93c_1a1202f3296a",
+      "name": "Aspect",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Hillshade__multidirectional__a5210a7e_d45d_4ca9_af78_ba5f716212e0",
+      "name": "Hillshade (multidirectional)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "AOI__4_x_4_km__4ef0b501_a57c_4fd9_97f0_c6d52c2607f9",
+      "name": "AOI (4 x 4 km)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Download_tiles_f5caaa6a_229e_4238_8f43_69c69c720a0f",
+      "name": "Download tiles",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:35a3f636",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "OutputFilename": "/home/odinsbeard/gis-revision/terrain-heavy-rain-3d-city-berlin/output/p3_3d/index.html",
+  "Version": 30300
+}

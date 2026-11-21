@@ -3,3 +3,18 @@
 *.las
 *.zip
 */data/raw/
+
+# --- public repo (2026-11-21): scratch, backups and big data stay on the laptop ---
+*/_work/
+*/backup/
+**/grassdb/
+*.dump
+# crash-recovery logs: contain cloud account details and IP addresses
+WORKLOG.md
+**/WORKLOG.md
+# data files over GitHub's 50 MB warning size (re-download or rebuild locally)
+p1-green-space/data/berlin-261102.osm.pbf
+p1-green-space/data/p1_network.gpkg
+tema_osm.gpkg
+terrain-heavy-rain-3d-city-berlin/data/p3.gpkg
+try_project/tema_lod2_synthetic.gpkg
