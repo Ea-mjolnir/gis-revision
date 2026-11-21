@@ -18,3 +18,7 @@ p1-green-space/data/p1_network.gpkg
 tema_osm.gpkg
 terrain-heavy-rain-3d-city-berlin/data/p3.gpkg
 try_project/tema_lod2_synthetic.gpkg
+
+# GeoPackage temp files
+*.gpkg-shm
+*.gpkg-wal
